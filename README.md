@@ -3,7 +3,7 @@
 💡 I'm always curious about building creative tech that solves real-world problems.
 
 ## 📫 How to reach me ...
-- 📍 [LinkedIn](www.linkedin.com/in/varshini-buggana-834218321  )
+- 📍 [LinkedIn](https://www.linkedin.com/in/varshini-buggana-834218321/)
 
 ## Objective
 - Aspiring Full-Stack Developer with a strong foundation in Web Development, AI, and Data Science. Passionate about building scalable applications, leveraging Python and Java. Seeking an internship opportunity to apply my skills and grow in a dynamic environment.
